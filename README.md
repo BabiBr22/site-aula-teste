@@ -1,2 +1,2 @@
 # site-aula-teste
-Repositório de teste de aula
+Repositório de teste de aula.
